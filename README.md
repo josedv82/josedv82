@@ -7,3 +7,12 @@
 🛠 I mostly share learning resources, code snippets and ocassionally sport related R packages & Shiny apps here on GitHub.  
 💬 I am on [Twitter](https://twitter.com/jfernandez__)  
 
+***
+
+#### Some publicly available R packages I built:
+
+* [matuR:](https://github.com/josedv82/matuR) A package to calculate athlete maturation and biobanding metrics.   
+* [airball:](https://github.com/josedv82/airball) A package to extract schedule and travel metrics for NBA teams.   
+
+---
+
