@@ -11,7 +11,7 @@
 
 #### Some publicly available R packages I built:
 
-* [matuR:](https://github.com/josedv82/matuR) A package to calculate athlete maturation and biobanding metrics.   
+* [matuR:](https://github.com/josedv82/matuR) A package to calculate and plot athlete maturation and biobanding metrics.   
 * [airball:](https://github.com/josedv82/airball) A package to extract schedule density and travel related metrics for NBA teams.   
 
 
