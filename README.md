@@ -13,6 +13,6 @@
 
 * [matuR:](https://github.com/josedv82/matuR) Calculate and plot athlete maturation and biobanding metrics.   
 * [airball:](https://github.com/josedv82/airball) Extract schedule density, travel related metrics and injury transactions for NBA teams since 1947. 
-* [bodygramR:](https://github.com/josedv82/bodygramR/blob/master/README.md) Human body diagram visualizations in R. 
+* [bdgramR:](https://github.com/josedv82/bdgramR/blob/master/README.md) Human body diagram visualizations in R. 
 
 
