@@ -17,5 +17,5 @@
 
 #### Shiny APPs:
 
-* [NBA Schedule Density:](https://josedv.shinyapps.io/NBASchedule/) An app to interact and visualize different schedule and travel related factors for the 2016 to 2019 NBA seasons.
+* [NBA Schedule Density:](https://josedv.shinyapps.io/NBASchedule/) An app to visualize and interact with various schedule and travel related factors for the 2016 to 2019 NBA seasons.
 * [EPV Dashboard:](https://josedv.shinyapps.io/EPV_NBA_Dashboard/) A conceptual dashboard idea to visualize Expected Possession Value in Basketball.
