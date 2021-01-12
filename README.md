@@ -9,10 +9,13 @@
 
 ***
 
-#### Some publicly available R packages I built:
+#### My (publicly available) R packages:
 
 * [matuR:](https://github.com/josedv82/matuR) Calculate and plot athlete maturation and biobanding metrics.   
 * [airball:](https://github.com/josedv82/airball) Extract schedule density, travel related metrics and injury transactions for NBA teams since 1947. 
 * [bdgramR:](https://github.com/josedv82/bdgramR/blob/master/README.md) Human body diagram visualizations in R. 
 
+#### Shiny APPs:
 
+* [NBA Schedule Density:](https://josedv.shinyapps.io/NBASchedule/) An app to interact and visualize different schedule and travel related factors for the 2016 to 2019 NBA seasons.
+* [EPV Dashboard Concept:](https://josedv.shinyapps.io/EPV_NBA_Dashboard/) A conceptual dashboard idea to visualize Expected Possession Value in Basketball.
