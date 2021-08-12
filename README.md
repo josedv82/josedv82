@@ -1,7 +1,7 @@
 
 ### About me
 
-📈 I'm a sport scientist from Spain.  
+📈 I'm a sport scientist from Spain and enjoy building tools to support sport coaches.
 💻 I tend to do most of my data work combining R & SQL.  
 🤳🏻 I’m currently learning IOS development, especially SwiftUI and ARKit frameworks.  
 🛠 I mostly share learning resources, code snippets and ocassionally sport related R packages & Shiny apps here on GitHub.  
