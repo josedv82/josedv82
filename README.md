@@ -23,7 +23,7 @@
 * [Basketball Event Tracker](https://josedv.shinyapps.io/bball_event_tracker/) An app to plot basketball events and export the dataset with the corresponding coordinates and other related info.
 
 <details>
-  <summary> <strong> Research Collaborations </strong> </summary>
+  <summary> <strong> Research Collaborations: </strong> </summary>
 <p>
   
 * Torres-Ronda L, Gámez I, Robertson S, **Fernández J** (2022) *Epidemiology and injury trends in the National Basketball Association: Pre- and per-COVID-19 (2017–2021).* PLoS ONE 17(2): e0263354. [Link](https://www.researchgate.net/publication/358509512_Epidemiology_and_injury_trends_in_the_National_Basketball_Association_Pre-and_per-_COVID-19_2017-2021)
