@@ -18,9 +18,9 @@
 
 * Casals M., Cortes, J., Fernández J., Martínez J., Ratiha M., Subirana, I. (2025). `R Shiny Web Applications in the Sports Field: A Scoping Review.` Statistica & Applicazione. March 13, 2025. [Link](https://www.vitaepensiero.it/scheda-articolo_digital/marti-casals-jordi-cortes-jose-fernandez/r-shiny-web-applications-in-the-sports-fielda-scoping-review-999999_000055-399683.html)
   
-  * Casals M., **Fernández J.**, Martínez V., Lopez M., Langohr K., & Cortés J. (2022). `A systematic review of sport-related packages within the R CRAN repository.` International Journal of Sports Science & Coaching, 0(0). [Link](https://www.researchgate.net/publication/365360566_A_systematic_review_of_sport-related_packages_within_the_R_CRAN_repository)
+* Casals M., **Fernández J.**, Martínez V., Lopez M., Langohr K., & Cortés J. (2022). `A systematic review of sport-related packages within the R CRAN repository.` International Journal of Sports Science & Coaching, 0(0). [Link](https://www.researchgate.net/publication/365360566_A_systematic_review_of_sport-related_packages_within_the_R_CRAN_repository)
   
-  * Torres-Ronda L, Gámez I, Robertson S, **Fernández J** (2022) `Epidemiology and injury trends in the National Basketball Association: Pre- and per-COVID-19 (2017–2021).` PLoS ONE 17(2): e0263354. [Link](https://www.researchgate.net/publication/358509512_Epidemiology_and_injury_trends_in_the_National_Basketball_Association_Pre-and_per-_COVID-19_2017-2021)
+* Torres-Ronda L, Gámez I, Robertson S, **Fernández J** (2022) `Epidemiology and injury trends in the National Basketball Association: Pre- and per-COVID-19 (2017–2021).` PLoS ONE 17(2): e0263354. [Link](https://www.researchgate.net/publication/358509512_Epidemiology_and_injury_trends_in_the_National_Basketball_Association_Pre-and_per-_COVID-19_2017-2021)
   
 * Schelling X, **Fernández J**, Ward P, Fernández J, Robertson S. (2021) `Decision Support System Applications for Scheduling in Professional Team Sport. The Team's Perspective.` Front Sports Act Living. Jun 4;3:678489. [Link](https://www.researchgate.net/publication/351370895_Decision_Support_System_Applications_for_Scheduling_in_Professional_Team_Sport_The_Team's_Perspective)
 
