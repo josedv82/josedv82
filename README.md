@@ -15,6 +15,8 @@
 <details>
   <summary> <strong> Research Collaborations: </strong> </summary>
 <p>
+
+* Casals M., Cortes, J., Fernández J., Martínez J., Ratiha M., Subirana, I. (2025). `R Shiny Web Applications in the Sports Field: A Scoping Review.` Statistica & Applicazione. March 13, 2025. [Link](https://www.vitaepensiero.it/scheda-articolo_digital/marti-casals-jordi-cortes-jose-fernandez/r-shiny-web-applications-in-the-sports-fielda-scoping-review-999999_000055-399683.html)
   
   * Casals M., **Fernández J.**, Martínez V., Lopez M., Langohr K., & Cortés J. (2022). `A systematic review of sport-related packages within the R CRAN repository.` International Journal of Sports Science & Coaching, 0(0). [Link](https://www.researchgate.net/publication/365360566_A_systematic_review_of_sport-related_packages_within_the_R_CRAN_repository)
   
